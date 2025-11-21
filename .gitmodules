@@ -1,0 +1,3 @@
+[submodule "devfestparis2025_handson_bank_account_rust"]
+	path = devfestparis2025_handson_bank_account_rust
+	url = git@github.com:davidaparicio/devfestparis2025_handson_bank_account_rust.git
