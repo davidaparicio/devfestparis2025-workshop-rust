@@ -1,3 +1,6 @@
 [submodule "devfestparis2025_handson_bank_account_rust"]
 	path = devfestparis2025_handson_bank_account_rust
 	url = git@github.com:davidaparicio/devfestparis2025_handson_bank_account_rust.git
+[submodule "touraine-tech2023-rust-cli"]
+	path = touraine-tech2023-rust-cli
+	url = https://github.com/jrollin/rust-cli-workshop
